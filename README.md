@@ -5,7 +5,7 @@ The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools
 
 ## Tools Required
 
-### Cadence EDA Suite
+### Cadence EDA Suitea
 - **Virtuoso Schematic Editor** (for circuit design)  
 - **Spectre Simulator** (for circuit simulation)  
 
@@ -56,7 +56,8 @@ The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools
 ## Output
 #### 1.Transient Analysis Output
 
-  ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/3b285eea-7635-4442-8e5b-130ff3d0843d" />
+
 
 
 ## Results:
